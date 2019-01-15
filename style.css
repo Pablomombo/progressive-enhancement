@@ -1,0 +1,72 @@
+body{font-family: Verdana, Geneva, Sans-serif; font-size: 16px; line-height: 22px; }
+
+h1, h2, h3, h4, h5, h6{font-family: Times New Roman, Times, serif;padding: 0 100px 10px 100px;}
+
+h1{font-size: 30px;}
+
+h2{font-size: 20px;}
+
+h3{font-size: 15px;}
+
+p{padding: 0 100px 10px 100px; text-align: justify}
+
+figcaption{text-align: center; font-style: italic;}
+
+em{text-transform: uppercase;}
+
+.bien{color: red;}
+
+.mal{color: green;}
+
+a{font-weight: bold}
+
+ul{margin: 0 0 20px 100px;}
+
+table{margin: auto; border:medium solid black; border-collapse: collapse; width:50%;}
+
+th{border: thin solid black; text-align: center; width:50%;}
+
+td{border: thin solid black; text-align: center; width:50%;}
+
+.grey{background-color: grey;}
+
+.white{background-color: white;}
+
+blockquote{font-style: italic; width: 50%; margin: 80px auto 80px auto; font-size: 160%;
+ background-color: #DCDCDC; border-left: 3px solid #842e1b; padding: 0 0 0 30px;}
+
+ .fermier{font-style: italic; width: 50%; margin: 80px auto 80px auto; font-size: 160%;
+ background-color: #DCDCDC; border-left: 3px solid #00FFFF; padding: 0 0 0 30px;}
+
+img{display: block; margin: auto;}
+
+#conclusion{font-style: italic; margin: auto; padding: 10px 100px 0 100px;}
+
+#quote{font-style: italic; font-weight: bold; margin: auto; padding: 0 200px 10px 200px;}
+
+#paragraphe{font-weight: bold;}
+
+#tableau{margin: auto; width: 50%;}
+
+#container{ width:90%; margin: auto;
+background: -webkit-radial-gradient(rgb(171, 204, 234), rgb(20, 55, 90));
+background: radial-gradient(rgb(171, 204, 234), rgb(20, 55, 90));
+background-image: url("background-bright-clouds-1235398.jpg"); 
+background-repeat: no-repeat; background-position: bottom right;}
+ 
+header{background-color: yellow;} 
+
+.gens1{background-image: url("bien.png"); background-size: 18px;
+background-repeat: no-repeat; background-position: 33%;}
+
+.gens2{background-image: url("mal.png"); background-size: 18px;
+background-repeat: no-repeat; background-position: 34%;}
+
+.gens3{background-image: url("chat.png"); background-size: 18px;
+background-repeat: no-repeat; background-position: 38%;}
+
+.image1{float: left; margin: 15px;}
+
+.image2{float: left; margin: 15px;}
+
+.image3{float: left; margin: 15px;}
