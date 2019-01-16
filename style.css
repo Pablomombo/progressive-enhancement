@@ -12,6 +12,8 @@ p{padding: 0 100px 10px 100px; text-align: justify}
 
 figcaption{text-align: center; font-style: italic;}
 
+caption{caption-side: bottom; text-align: center; font-style: italic;}
+
 em{text-transform: uppercase;}
 
 .bien{color: red;}
@@ -39,8 +41,6 @@ blockquote{font-style: italic; width: 50%; margin: 80px auto 80px auto; font-siz
  background-color: #DCDCDC; border-left: 3px solid #00FFFF; padding: 0 0 0 30px;}
 
 img{display: block; margin: auto;}
-
-#rocher2{text-align: center;}
 
 #conclusion{font-style: italic; margin: auto; padding: 10px 100px 0 100px;}
 
