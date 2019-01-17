@@ -6,7 +6,7 @@ h1{font-size: 25px;}
 
 h2{font-size: 20px;}
 
-h3{font-size: 15px;}
+h3{font-size: 15px; background-color: yellow; width: 17%; margin: 0 0 20px 100px; padding: 4px;}
 
 p{padding: 0 100px 10px 100px; text-align: justify}
 
@@ -30,7 +30,7 @@ th{border: thin solid black; text-align: center; width:50%;}
 
 td{border: thin solid black; text-align: center; width:50%;}
 
-.grey{background-color: grey;}
+.grey{background-color: #808080;}
 
 .white{background-color: white;}
 
@@ -42,8 +42,6 @@ blockquote{font-style: italic; width: 50%; margin: 80px auto 80px auto; font-siz
 
 img{display: block; margin: auto;}
 
-#conclusion{font-style: italic; margin: auto; padding: 10px 100px 0 100px;}
-
 #quote1{font-style: italic; font-weight: bold; margin: auto; padding: 0 200px 10px 200px;}
 
 .quote2{font-style: italic; width: 30%; margin: 0 0 0 150px; font-size: 160%;
@@ -51,17 +49,13 @@ img{display: block; margin: auto;}
  
 #histoire>p{padding: 0 240px 0 240px;}
 
-#paragraphe{font-weight: bold;}
-
 #tableau{margin: auto; width: 50%;}
 
 #container{ width:90%; margin: auto;
 background: -webkit-radial-gradient(rgb(171, 204, 234), rgb(20, 55, 90));
 background: radial-gradient(rgb(171, 204, 234), rgb(20, 55, 90));
-background-image: url("background-bright-clouds-1235398.jpg"); 
+background-image: url("beautiful-bloom-blooming-414062.jpg"); 
 background-repeat: no-repeat; background-position: bottom right;}
- 
-h3{background-color: yellow; width: 17%; margin: 0 0 20px 100px; padding: 4px;} 
 
 .gens1{background-image: url("bien.png"); background-size: 18px;
 background-repeat: no-repeat; background-position: 33%;}
@@ -72,8 +66,8 @@ background-repeat: no-repeat; background-position: 34%;}
 .gens3{background-image: url("chat.png"); background-size: 18px;
 background-repeat: no-repeat; background-position: 38%;}
 
-.image1{float: left; margin: 35px;}
+.image1{float: left; margin: 0 25px 0 35px;}
 
-.image2{float: right; margin: 15px;}
+.image2{float: right; margin: 0 35px 0 25px;}
 
 .clear{clear: both;}
