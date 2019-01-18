@@ -2,11 +2,12 @@ body{font-family: Open sans, Sans-serif; font-size: 16px; line-height: 22px; }
 
 h1, h2, h3, h4, h5, h6{font-family: ZCOOL KuaiLe, cursive; padding: 0 100px 10px 100px;}
 
-h1{font-size: 25px;}
+h1{font-size: 25px; margin: auto; padding: 10px 0 0 100px;}
 
 h2{font-size: 20px;}
 
-h3{font-size: 15px; background-color: yellow; width: 17%; margin: 0 0 20px 100px; padding: 4px;}
+.signature{font-size: 15px; font-family: ZCOOL KuaiLe, cursive; background-color: yellow;
+	width: 17%; margin: 0 0 20px 100px; padding: 4px;}
 
 p{padding: 0 100px 10px 100px; text-align: justify}
 
@@ -42,7 +43,7 @@ blockquote{font-style: italic; width: 50%; margin: 80px auto 80px auto; font-siz
 
 img{display: block; margin: auto;}
 
-#quote1{font-style: italic; font-weight: bold; margin: auto; padding: 0 200px 10px 200px;}
+.quote1{font-style: italic; font-weight: bold; margin: auto; padding: 0 200px 10px 200px;}
 
 .quote2{font-style: italic; width: 30%; margin: 0 0 0 150px; font-size: 160%;
  background-color: #DCDCDC; border-left: 3px solid #842e1b; padding: 10 100 0 100px;}
@@ -58,13 +59,13 @@ background-image: url("beautiful-bloom-blooming-414062.jpg");
 background-repeat: no-repeat; background-position: bottom right;}
 
 .gens1{background-image: url("bien.png"); background-size: 18px;
-background-repeat: no-repeat; background-position: 33%;}
+background-repeat: no-repeat; background-position: 29%;}
 
 .gens2{background-image: url("mal.png"); background-size: 18px;
-background-repeat: no-repeat; background-position: 34%;}
+background-repeat: no-repeat; background-position: 30%;}
 
 .gens3{background-image: url("chat.png"); background-size: 18px;
-background-repeat: no-repeat; background-position: 38%;}
+background-repeat: no-repeat; background-position: 34%;}
 
 .image1{float: left; margin: 0 25px 0 35px;}
 
