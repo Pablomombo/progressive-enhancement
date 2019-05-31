@@ -1,32 +1,31 @@
 # Progressive-enhancement
 
-Bonne composition d'un HTML
+A good HTML
 
-## Languages utilisés
+## Technos
 
 HTML5, CSS3
 
-## Contenu
+## Contents
 
 Un article sur le Bien et le Mal
 
-## Création
+## Creation
 
-Janvier 2019
+January 2019
 
-## À venir
+## State of the project
 
 Le bonus de l'exercice
 
 ## Screenshots
 
 
-
-## Créateur
+## Author
 
 Pablo Mombo
 
 ## License
 
-Ce poject est sous licence BeCode TM
+This project is under licence BeCode TM
 

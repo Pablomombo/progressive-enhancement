@@ -1,0 +1,3 @@
+# Nightmare
+
+*La nuit tombait* dans notre troisième jour de vacances dans la cabane qu'on avait loué au milieu de cette **forêt feuillue**. Si je j'avais cru que les histoires ~~bouilli~~ racontées à l'auberge étaient à moitié vraies, nous serions partis dès que nous aurions quitté ce bidonville. Mais nous n'avons pas vraiment prêter attention et ça fu **la pire des choses** que nous ayons fait...
